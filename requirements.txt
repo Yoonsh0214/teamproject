@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+# 신경망(MLP)용 — 설치가 부담되면 생략하고 코드의 sklearn MLPRegressor 대체 옵션 사용
+tensorflow

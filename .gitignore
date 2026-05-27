@@ -1,0 +1,22 @@
+# MCP / 로컬 설정 (민감 정보 포함 — 절대 커밋 금지)
+.setting/
+
+# 데이터셋 (용량 큼 — data/README.md 참고하여 별도 다운로드)
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 생성된 그래프 (figures/.gitkeep만 추적)
+figures/*.png
+
+# OS / 에디터
+.DS_Store
+.ipynb_checkpoints/
+.idea/
+.vscode/
